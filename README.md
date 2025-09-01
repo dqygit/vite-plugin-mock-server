@@ -67,7 +67,7 @@ import mockServer from 'vite-plugin-mock-server'
 export default defineConfig({
   plugins: [
     vue(),
-    mockServer())
+    mockServer()
   ]
 })
 ```
